@@ -1,2 +1,2 @@
-# WhitePanda
+# LeetCode
 Internship Task
